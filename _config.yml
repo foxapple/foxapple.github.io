@@ -1,1 +1,2 @@
-baseurl: /foxapple.github.io
+markdown: rdiscount
+pygments: true
