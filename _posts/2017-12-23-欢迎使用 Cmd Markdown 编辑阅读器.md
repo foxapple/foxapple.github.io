@@ -1,4 +1,9 @@
-﻿# 欢迎使用 Cmd Markdown 编辑阅读器
+﻿---
+layout: post
+title: New Post
+---
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
+# 欢迎使用 Cmd Markdown 编辑阅读器
 
 ------
 
