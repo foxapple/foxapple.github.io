@@ -15,5 +15,6 @@ title: 友情链接
 
 ### Haocxx的博客
 这也是我的一个好哥们的 CSDN 博客, Android 上层知识多一点.
+博客链接: https://blog.csdn.net/haocxx
 
 以上.
