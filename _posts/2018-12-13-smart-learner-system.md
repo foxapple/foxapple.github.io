@@ -31,4 +31,6 @@ title: 使用 SmartLearner 来学习英语
 
 然而，我还是没有兴趣去读，我不禁陷入了沉思。
 
+[SmartLearner](https://github.com/foxapple/SmartLearner)
+
 以上.
