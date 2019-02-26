@@ -1,1 +1,4 @@
 baseurl: /foxapple.github.io
+markdown: redcarpet
+redcarpet: 
+    extensions: ["tables"]
