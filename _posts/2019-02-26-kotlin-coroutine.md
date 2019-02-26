@@ -190,6 +190,7 @@ launch(Dispatchers.Main) {
     imageView.setImageBitmap(image) // Back on main thread
 }
 ```
+         
 
 
 ### kotlin 通道
@@ -263,6 +264,7 @@ suspend fun CoroutineScope.runState(method: ReceiveChannel<(Int, Int)-> Int>){
     }
 }
 ```
+ 
 
 - Channel 还可以写成一种 pipeline 的形式
 
@@ -284,7 +286,7 @@ fun CoroutineScope.square(numbers: ReceiveChannel<Int>): ReceiveChannel<Int> = p
     for (x in numbers) send(x * x)
 }
 ```
-
+   
 
 ### 总结
 
